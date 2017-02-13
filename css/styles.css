@@ -1,0 +1,75 @@
+body {
+	font-family: 'Arial', sans-serif;
+}
+
+article {
+	width: 30%;
+	height: 810px;
+	border: 1px solid lightblue;
+	display: inline-block;
+	margin: 10px;
+}
+
+header {
+	border: 1px dotted lightgray;
+}
+
+h2 {
+	text-align: center;
+}
+
+h4 {
+	line-height: 0.1em;
+	padding-left: 10px;
+}
+
+p {
+	text-align: justify;
+	padding: 0 5px;
+}
+
+.specifications {
+	font-size: 0.75em;
+	font-weight: bold;
+	line-height: 0.1em;
+	padding-left: 20px;
+}
+
+footer {
+	font-size: 0.35em;
+	padding: 10px 10px 0;
+}
+
+.photo-1 {
+	background-image: url(../images/1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 397px;
+}
+
+.photo-2 {
+	background-image: url(../images/2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 397px;
+}
+
+.photo-3 {
+	background-image: url(../images/3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 397px;
+}
+
+.photo-4 {
+	background-image: url(../images/4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 397px;
+}
+
+.available {
+	background-color: gray;
+	color: yellow;
+	padding: 10px 5px 10px;
+}
